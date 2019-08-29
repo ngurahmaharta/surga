@@ -1,0 +1,13 @@
+items: name,slug, desc, tags, pic1, pic2, pic3
+harga: id_item, harga, unit, timestamps
+store: name, adress , longitude, latitude, desc
+kategori
+user
+hadiah
+reward
+
+
+item with store
+
+
+add col point @ users table
